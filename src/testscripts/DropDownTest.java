@@ -41,6 +41,7 @@ public class DropDownTest {
 		System.out.println("No. of items selected : " +mulSel.getAllSelectedOptions().size());
 		
 		mulSel.deselectByIndex(1);
+		System.out.println("this is my second github project");
 
 }
 }
